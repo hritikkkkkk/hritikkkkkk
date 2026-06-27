@@ -18,8 +18,6 @@ I am a Computer Science and Engineering (CSE) student with a strong passion for 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/19ritikkkk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/[in/Hritik Singh](https://www.linkedin.com/in/hritik-singh-8ba752294/?skipRedirect=true)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajputritk835@gmail.com) 
 
-# 💫 About Me:
-I am a passionate and disciplined Computer Science and Engineering (CSE) student with a strong interest in Artificial Intelligence, Machine Learning, Web Development, and Software Engineering. I have hands-on experience with **Python, Java, C, HTML, CSS, JavaScript, SQL, and Git/GitHub**. I am familiar with frameworks and tools such as **React, Node.js, VS Code, Firebase, Kivy, and Azure AI**, and I enjoy building real-world applications that solve practical problems. I have worked on projects involving AI-powered applications, virtual try-on systems, and social impact platforms, which have strengthened my problem-solving, analytical thinking, and software development skills. I continuously enhance my technical expertise through self-learning, personal projects, and exploring emerging technologies. Beyond academics, I am creative, goal-oriented, and eager to take on new challenges that help me grow both personally and professionally. My long-term goal is to build impactful technology solutions while contributing to meaningful innovation in the software industry.<br>
 
 
 ## 🌐 Socials:
