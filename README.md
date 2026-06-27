@@ -1,5 +1,18 @@
-# 💫 About Me:
-I am a passionate and disciplined Computer Science and Engineering (CSE) student with a strong interest in Artificial Intelligence, Machine Learning, Web Development, and Software Engineering. I have hands-on experience with **Python, Java, C, HTML, CSS, JavaScript, SQL, and Git/GitHub**. I am familiar with frameworks and tools such as **React, Node.js, VS Code, Firebase, Kivy, and Azure AI**, and I enjoy building real-world applications that solve practical problems. I have worked on projects involving AI-powered applications, virtual try-on systems, and social impact platforms, which have strengthened my problem-solving, analytical thinking, and software development skills. I continuously enhance my technical expertise through self-learning, personal projects, and exploring emerging technologies. Beyond academics, I am creative, goal-oriented, and eager to take on new challenges that help me grow both personally and professionally. My long-term goal is to build impactful technology solutions while contributing to meaningful innovation in the software industry.<br>
+### About Me
+
+I am a Computer Science and Engineering (CSE) student with a strong passion for Artificial Intelligence, Machine Learning, Web Development, and Software Engineering. I enjoy building innovative solutions to real-world problems and continuously improving my technical skills through hands-on projects, self-learning, and practical experience. I am a quick learner, a strong problem solver, and a collaborative team player who is always eager to explore new technologies and contribute to impactful software solutions.
+
+### Technical Skills
+
+* **Programming Languages:** Python, Java, C, JavaScript
+* **Web Technologies:** HTML5, CSS3, JavaScript, React.js, Node.js
+* **Database:** MySQL, Firebase
+* **Tools & Platforms:** Git, GitHub, VS Code, Azure AI
+* **Libraries & Frameworks:** Kivy, NumPy, Pandas
+* **Core Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Database Management Systems (DBMS), REST APIs
+* **AI & Machine Learning:** Python for AI, Basic Machine Learning, Data Analysis
+* **Soft Skills:** Problem Solving, Teamwork, Communication, Time Management, Adaptability
+
 
 
 ## 🌐 Socials:
