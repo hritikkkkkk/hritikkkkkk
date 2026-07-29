@@ -1,6 +1,6 @@
 ### About Me
 
-I am a Computer Science and Engineering (CSE) student with a strong passion for Artificial Intelligence, Machine Learning, Web Development, and Software Engineering. I enjoy building innovative solutions to real-world problems and continuously improving my technical skills through hands-on projects, self-learning, and practical experience. I am a quick learner, a strong problem solver, and a collaborative team player who is always eager to explore new technologies and contribute to impactful software
+I am a Computer Science and Engineering (CSE) student with a strong passion for Artificial Intelligence, Machine Learning, Web Development, and Software Engineering. I enjoy building innovative solutions to real-world problems and continuously improving my technical skills through hands-on projects, self-learning, and practical experience. I am a quick learner, a strong problem solver, and a collaborative team player who is always eager to explore new technologies and contribute to impactful software solutions
 
 ### Technical Skills
 
