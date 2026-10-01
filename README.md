@@ -4,7 +4,7 @@ I am a Computer Science and Engineering (CSE) student with a strong passion for 
 
 ### Technical Skills
 
-* **Programming Languages:** Python, Java, C, JavaScript
+* **Programming Languages:** Python, Java
 * **Web Technologies:** HTML5, CSS3, JavaScript, React.js, Node.js
 * **Database:** MySQL, Firebase
 * **Tools & Platforms:** Git, GitHub, VS Code, Azure AI
